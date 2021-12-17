@@ -1,4 +1,4 @@
-# Inrix-Hack
+# ParkSafe Inrix-Hack
 
 **Inspiration**
 - As we are going back to our normal ways of living post-pandemic, San Francisco has witnessed a 753% rise in vehicle thefts and break-ins from May 2020 to May 2021. We decided that it is time that we solve this compelling issue that many San Franciscans and visitors face daily.
